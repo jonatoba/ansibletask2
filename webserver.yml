@@ -11,7 +11,7 @@
 
   - systemd:
      name: "{{ service_httpd }}"
-     state: started
+     state: started  
 
   - name: Download a Template
     get_url:
