@@ -1,0 +1,3 @@
+package_httpd: "apache2"
+package_unzip: "unzip"
+service_httpd: "apache2"
